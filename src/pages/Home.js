@@ -4,7 +4,7 @@ import Profile from "../components/Profile";
 
 const Home = () => {
   return (
-    <div id="home" className="bg-[#2a3528]">
+    <div id="home" className="bg-[#2e585a]">
       <Navbar />
       <Profile />
     </div>

@@ -37,7 +37,7 @@ export const Certificate = () => {
                     alt={certificate.name}
                     className="h-80 rounded-xl"
                   />
-                  <div className="absolute flex flex-col justify-center items-center bottom-0 left-0 right-0 h-0 overflow-hidden group-hover:h-80 transition-[height_0.5s] duration-500 bg-[#22311d] rounded-xl">
+                  <div className="absolute flex flex-col justify-center items-center bottom-0 left-0 right-0 h-0 overflow-hidden group-hover:h-80 transition-[height_0.5s] duration-500 bg-[#1e4149] rounded-xl">
                     <h3
                       data-aos="zoom-in-up"
                       data-aos-duration="1000"
